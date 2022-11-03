@@ -11,6 +11,7 @@ h1{
     left: 0%;
     top:0;
     font-family: 'Shalimar', cursive;
+    font-size: 5em;
     
 
 }
@@ -42,10 +43,23 @@ h1{
     
 
 }
+.welcome-message{
+    font-family: 'EB Garamond', serif;
 
+
+}
 div.me{
 
 padding: 30px 2px 2px; 
 position: absolute; 
 margin-top: 20px;
+}
+.aboutme{
+font-family:'Roboto Condensed', sans-serif; ;
+
+
+}
+.hello{
+
+    font-family: 'EB Garamond', serif;
 }
