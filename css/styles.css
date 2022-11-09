@@ -3,7 +3,7 @@ body{
     
     text-align: center;
     font-family:'Roboto Condensed', sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     content: center;
     color: #40514e;
 
@@ -53,7 +53,7 @@ h1{
 .welcome-message{
     font-family: 'EB Garamond', serif;
     font-size: 5rem;
-    text-color:#66BFBF
+    color:#66BFBF
 
 
 }
@@ -81,7 +81,6 @@ margin:auto;
 }
 h2{
 
-    font-size: 2rem;
     color: #66BFBF;
     font-weight: normal; 
 }   
@@ -93,9 +92,12 @@ h3{
 
     width: 50%;
    position: relative;
-   marigin=top:100px; margin-right:auto; Margin-bottom:100px; Margin-left:auto; 
+   margin-top:100px; margin-right:auto; Margin-bottom:100px; Margin-left:auto; 
    text-align: left;  
 
+}
+.my-skills{
+    font-size:2.5rem;
 }
 .think-big{
     float:left; 
@@ -106,9 +108,9 @@ h3{
     float: right; 
     margin-left:30px;
 }
-.span {
+.hr{
+    border-style: dotted;
 
-    text-decoration: underline;
 }
 .bottom-container{
 
@@ -153,5 +155,5 @@ margin-left:auto;
   }
   .get-in-touch{
 
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
