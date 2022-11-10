@@ -20,6 +20,27 @@ h1{
     color:#66BFBF;
 
 }
+a{
+    color: #11999E;
+    font-family:'Roboto Condensed', sans-serif;
+    margin: 10px 5px; 
+    text-decoration: none;
+    font-size:1.5rem;
+}
+a:hover {
+    color:#EAF6F6
+
+}
+h2{
+
+    color: #66BFBF;
+    font-weight: normal; 
+    padding-bottom: 10px;
+}   
+h3{
+
+    color:#66BFBF;
+}
 
 .top-container{
 
@@ -79,16 +100,7 @@ margin:auto;
     padding-top:2px;
     padding-bottom:5px;
 }
-h2{
 
-    color: #66BFBF;
-    font-weight: normal; 
-    padding-bottom: 10px;
-}   
-h3{
-
-    color:#66BFBF;
-}
 .skill-row{
 
     width: 50%;
@@ -169,4 +181,11 @@ margin-left:auto;
   .get-in-touch{
 
     font-size: 2.5rem;
+  }
+
+  .trademark{
+    color:#EAF6F6;
+    font-size: .75rem;
+    padding: 20px 0px;
+
   }
